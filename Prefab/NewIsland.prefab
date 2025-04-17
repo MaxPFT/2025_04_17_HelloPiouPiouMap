@@ -816,7 +816,6 @@ GameObject:
   - component: {fileID: 4280272258464213009}
   - component: {fileID: 8819122043957656212}
   - component: {fileID: 8910215651421645288}
-  - component: {fileID: 181906287355150629}
   m_Layer: 0
   m_Name: Torus
   m_TagString: Untagged
@@ -31677,18 +31676,3 @@ MeshFilter:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 5006102282459099831}
   m_Mesh: {fileID: 0}
---- !u!114 &181906287355150629
-MonoBehaviour:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 5006102282459099831}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: efeeb13dc8341b54dbfbdbdd57ccd1cf, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: 
-  _speedRotation: 100
-  _speedScale: 0
-  _rotationAxis: {x: 1, y: -1, z: 1}

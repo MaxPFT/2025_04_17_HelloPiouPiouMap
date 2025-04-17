@@ -151,25 +151,9 @@ PrefabInstance:
     serializedVersion: 3
     m_TransformParent: {fileID: 8775674567605422255}
     m_Modifications:
-    - target: {fileID: 1436903115909762217, guid: fd64ffa2b7a486142b73121f369cdc8d, type: 3}
-      propertyPath: m_Mesh
-      value: 
-      objectReference: {fileID: 0}
-    - target: {fileID: 2925741389694998140, guid: fd64ffa2b7a486142b73121f369cdc8d, type: 3}
-      propertyPath: m_Mesh
-      value: 
-      objectReference: {fileID: 0}
-    - target: {fileID: 3195527362033600690, guid: fd64ffa2b7a486142b73121f369cdc8d, type: 3}
-      propertyPath: m_Mesh
-      value: 
-      objectReference: {fileID: 0}
     - target: {fileID: 3195527362033600690, guid: fd64ffa2b7a486142b73121f369cdc8d, type: 3}
       propertyPath: m_VersionIndex
-      value: 1737
-      objectReference: {fileID: 0}
-    - target: {fileID: 3914931212505609280, guid: fd64ffa2b7a486142b73121f369cdc8d, type: 3}
-      propertyPath: m_Mesh
-      value: 
+      value: 1740
       objectReference: {fileID: 0}
     - target: {fileID: 6459822425382235909, guid: fd64ffa2b7a486142b73121f369cdc8d, type: 3}
       propertyPath: m_LocalPosition.x
@@ -216,12 +200,8 @@ PrefabInstance:
       value: Island
       objectReference: {fileID: 0}
     - target: {fileID: 8976841676914385981, guid: fd64ffa2b7a486142b73121f369cdc8d, type: 3}
-      propertyPath: m_Mesh
-      value: 
-      objectReference: {fileID: 0}
-    - target: {fileID: 8976841676914385981, guid: fd64ffa2b7a486142b73121f369cdc8d, type: 3}
       propertyPath: m_VersionIndex
-      value: 1843
+      value: 1846
       objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
