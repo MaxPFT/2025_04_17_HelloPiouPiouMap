@@ -120,7 +120,7 @@ GameObject:
   m_Component:
   - component: {fileID: 8775674567605422255}
   m_Layer: 0
-  m_Name: PUFFET_MAXIMILIEN
+  m_Name: ROOT_PUFFET_MAXIMILIEN
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
