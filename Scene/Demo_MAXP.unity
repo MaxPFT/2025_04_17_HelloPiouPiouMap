@@ -20529,6 +20529,10 @@ PrefabInstance:
       propertyPath: m_Mesh
       value: 
       objectReference: {fileID: 271054716}
+    - target: {fileID: 2476821447113806270, guid: 57cb0374512f0a44583f2cec276d5345, type: 3}
+      propertyPath: m_globalSpeedInAngle
+      value: 90
+      objectReference: {fileID: 0}
     - target: {fileID: 4226381415970813447, guid: 57cb0374512f0a44583f2cec276d5345, type: 3}
       propertyPath: m_Mesh
       value: 
@@ -20544,6 +20548,18 @@ PrefabInstance:
     - target: {fileID: 5138256302538313212, guid: 57cb0374512f0a44583f2cec276d5345, type: 3}
       propertyPath: m_Name
       value: PUFFET_MAXIMILIEN
+      objectReference: {fileID: 0}
+    - target: {fileID: 5717938686986801584, guid: 57cb0374512f0a44583f2cec276d5345, type: 3}
+      propertyPath: m_LocalScale.x
+      value: 4
+      objectReference: {fileID: 0}
+    - target: {fileID: 5717938686986801584, guid: 57cb0374512f0a44583f2cec276d5345, type: 3}
+      propertyPath: m_LocalScale.y
+      value: 4
+      objectReference: {fileID: 0}
+    - target: {fileID: 5717938686986801584, guid: 57cb0374512f0a44583f2cec276d5345, type: 3}
+      propertyPath: m_LocalScale.z
+      value: 4
       objectReference: {fileID: 0}
     - target: {fileID: 7668488066787056264, guid: 57cb0374512f0a44583f2cec276d5345, type: 3}
       propertyPath: m_Mesh
