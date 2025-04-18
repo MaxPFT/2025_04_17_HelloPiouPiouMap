@@ -58,7 +58,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 3195527362033600690, guid: fd64ffa2b7a486142b73121f369cdc8d, type: 3}
       propertyPath: m_VersionIndex
-      value: 1791
+      value: 1797
       objectReference: {fileID: 0}
     - target: {fileID: 6459822425382235909, guid: fd64ffa2b7a486142b73121f369cdc8d, type: 3}
       propertyPath: m_LocalScale.x
@@ -122,7 +122,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 8976841676914385981, guid: fd64ffa2b7a486142b73121f369cdc8d, type: 3}
       propertyPath: m_VersionIndex
-      value: 1897
+      value: 1903
       objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
@@ -163,7 +163,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   m_whatToRotate: {fileID: 5717938686986801584}
   m_rotateTorus: {fileID: 5717136639402152331}
-  m_globalSpeedInAngle: 90
+  m_globalSpeedInAngle: 40
   m_rotateAxis: {x: 0, y: 1, z: 0}
   m_rotateAxisTorus: {x: -1, y: 0, z: 1}
   m_space: 1
