@@ -20876,6 +20876,14 @@ PrefabInstance:
       propertyPath: m_Name
       value: PUFFET_MAXIMILIEN
       objectReference: {fileID: 0}
+    - target: {fileID: 5717938686986801584, guid: 57cb0374512f0a44583f2cec276d5345, type: 3}
+      propertyPath: m_LocalPosition.x
+      value: -1.232
+      objectReference: {fileID: 0}
+    - target: {fileID: 5717938686986801584, guid: 57cb0374512f0a44583f2cec276d5345, type: 3}
+      propertyPath: m_LocalPosition.z
+      value: -7.944
+      objectReference: {fileID: 0}
     - target: {fileID: 7668488066787056264, guid: 57cb0374512f0a44583f2cec276d5345, type: 3}
       propertyPath: m_Mesh
       value: 
